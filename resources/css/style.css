@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  color: white;
+  /*Assume standard font-weight is normal, so did not specify unless it should
+  as part of best practice?*/
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
